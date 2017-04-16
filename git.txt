@@ -1,0 +1,9 @@
+#go into your project folder cd myapp
+
+#initialize git git init
+
+#check the status git status
+
+#Configure Git with your name and email git config --global user.email "you@example.com" git config --global user.name "Your Name"
+
+#You can add everything and commit it to your repository with two commands. git add -A git commit -m "initial checkin"
